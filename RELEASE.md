@@ -46,6 +46,7 @@
 *   Supported custom extractors in Evaluator.
 *   Deprecated tensorflow dependency from MLMD python client.
 *   Supported `Date` spec in input config for file based ExampleGen.
+*   Use TFXIO and batched extractors by default in Evaluator.
 
 ## Bug fixes and other changes
 *   Added Tuner component to Iris e2e example.
